@@ -198,6 +198,7 @@ header nav ul {
   width: 100%;
   display: flex;
   justify-content: space-around;
+  padding: 0;
 }
 
 header nav ul li {
@@ -275,6 +276,7 @@ footer .copyright {
 }
 
 .hero-area h1 {
+  margin: 0;
   font-size: 2.25em;
 }
 
@@ -533,7 +535,7 @@ input[type=button] {
     /* General styles */
     .content-wrapper {
       max-width: 640px;
-      margin: 100px 0;
+      margin: 80px 0;
     }
 
     h2 {
@@ -744,7 +746,11 @@ input[type=button] {
     /* Hero Area */
     .hero-area h1 {
       font-size: 3.75em;
-      width: 60%;
+      width: 80%;
+    }
+
+    .hero-area {
+      min-height: 600px;
     }
 
     /* Aside */

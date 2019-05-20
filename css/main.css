@@ -675,6 +675,10 @@ input[type=button] {
       font-size: 1.5em;
     }
 
+    .map figure {
+      padding-bottom: 45.5%;
+    }
+
     /* =========================================================
     Faq Page
     ========================================================= */
@@ -760,6 +764,10 @@ input[type=button] {
     .contact-section .content-wrapper h2 {
       width: 100%;
       font-size: 3em;
+    }
+
+    .map figure {
+      padding-bottom: 37.5%; 
     }
 
     .contact-section .content-wrapper h2 {

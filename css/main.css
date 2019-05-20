@@ -335,6 +335,11 @@ input[type=button] {
   margin: 0;
 }
 
+.features i {
+  font-size: 3.75em;
+  margin-bottom: 40px;
+}
+
 /* Reviews */
 .reviews {
   background: #2a423a;
@@ -767,7 +772,7 @@ input[type=button] {
     }
 
     .map figure {
-      padding-bottom: 37.5%; 
+      padding-bottom: 37.5%;
     }
 
     .contact-section .content-wrapper h2 {
